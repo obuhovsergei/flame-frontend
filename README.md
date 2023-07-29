@@ -1,4 +1,4 @@
-# test-task-frontend
+# flame-frontend
 
 ## Project setup
 ```
